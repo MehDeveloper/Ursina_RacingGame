@@ -1,4 +1,4 @@
-# Ursina_RacingGame
+# Ursina_2DRacingGame
 A Youtube Series I'm working on.
 
 I hope this series ends up being a fun learning experience.
